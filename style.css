@@ -1,0 +1,148 @@
+
+.logo {
+
+    width: 170px;
+    height: 90px;
+    object-fit:contain;
+
+}
+.navegacao {
+    font-size: 15px;
+    padding: 0px 60px 0px 0px;
+
+}
+
+.texto {
+    background-color: #b53c3c;
+    text-align: center;
+    color: white;
+}
+
+.espacamento{
+    margin-bottom: 0rem;
+    
+}
+
+.texto1 {
+
+    background-color:#333333;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+
+
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.parte3{
+
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.usina{
+    width: 400px;
+    height: auto;
+    border: 15px solid #c13538;
+    max-width: 100%;
+    
+    
+
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    
+    line-height: 1.5;
+    color: white;
+    
+}
+
+.bt {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+
+section.produto {
+
+    background-image: url("images/background.png");
+
+}
+
+.cx{
+    padding: 20px 100px 20px 100px;
+}
+
+.icon{
+    height: 150px;
+    padding: 20px 100px 20px 100px;
+}
+
+.subtitulo-4{
+    color: black;
+    text-align: center;
+    
+}
+
+
+.txt{
+    text-align: center;
+    color: black;
+    margin-right: 45px;
+    
+}
+
+
+
+.box-redonda{
+    border-radius: 100%;
+    border: 3px solid #ff4d4d;
+    border-left: none;
+    border-top: none;
+    width: 300px;
+    height: 280px;
+    text-align: center;
+    padding: 17%;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.wrapper-rodapé{
+    background-color: #231f20;
+    
+}
+.rodapé-icone{
+    height: 80px;
+}
+
+.rodape-texto{
+    margin-top: 30px;
+    color: white;
+    
+    
+}
+
+
+.bt-rodape {
+
+    border-radius: 10px;
+    height: 50px;
+    width: 170px;
+    margin-top: 14px;
+    color: #ffffff;
+}
